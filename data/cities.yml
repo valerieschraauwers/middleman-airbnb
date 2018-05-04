@@ -1,0 +1,17 @@
+paris:
+  host: "Sebastien's home"
+  country: "France"
+  description: "Charming room in Montmartre"
+  stars: "****"
+tokyo:
+  host: "Boris Paillard"
+  country: "Japan"
+  description: "Small flat in Tokyo"
+  stars: "***"
+london:
+  host: "Romain's room"
+  country: "UK"
+  description: Nice flat in Piccadilly
+  stars: "*****"
+
+
